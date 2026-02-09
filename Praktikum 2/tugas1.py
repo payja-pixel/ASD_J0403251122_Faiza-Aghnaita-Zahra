@@ -108,7 +108,7 @@ def cari_barang(stok_dict):
         NamaBarang = stok_dict[kode_cari]["Nama barang"] #ambil nama dari dictionary
         StokBarang = stok_dict[kode_cari]["Stok barang"] #ambil stok dari dictionary
 
-        print("===== Data Mahasiswa Ditemukan =====") #tampilkan detail barang
+        print("===== Data Barang Ditemukan =====") #tampilkan detail barang
         print(f"Kode barang : {kode_cari}") #tampilkan kode barang
         print(f"Nama barang : {NamaBarang}") #tampilkan nama barang
         print(f"Stok barang : {StokBarang}") #tampilkan stok barang
@@ -253,4 +253,5 @@ def main():
 
 # Menjalankan program utama
 if __name__ == "__main__": 
+
     main() 
