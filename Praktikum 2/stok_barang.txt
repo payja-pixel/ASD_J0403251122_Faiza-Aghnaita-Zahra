@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,MieInstan,20
+BRG005,Wafer,16
+BRG006,Susu,8
+BRG007,EsKrim,13
+BRG008,Chitato,18
+BRG009,FruitTea,23
+BRG010,Yogurt,7
